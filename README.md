@@ -9,7 +9,8 @@ paragraph-duplicator input-file [output-file]
 
 ## Sample
 Input file:
-```
+
+```text
 # Sample Handbook
 ## Overview
 
@@ -17,7 +18,8 @@ This Sample Handbook explains how to use these samples.
 ```
 
 Output file:
-```
+
+```text
 <!--
 # Sample Handbook
 -->
