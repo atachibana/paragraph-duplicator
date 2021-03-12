@@ -1,4 +1,4 @@
-function main() {
-    console.log('Paragraph Duplicator');
+function duplicate () {
+  console.log('Paragraph Duplicator')
 }
-main();
+duplicate()
