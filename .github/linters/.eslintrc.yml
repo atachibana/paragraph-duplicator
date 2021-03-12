@@ -40,4 +40,4 @@ plugins:
 # Rules #
 #########
 rules:
-  semi: ["error","alwaysx"]
+  semi: ["error","always"]
