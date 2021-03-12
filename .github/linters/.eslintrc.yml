@@ -6,8 +6,8 @@
 #############################
 #############################
 
-# extends:
-#  - eslint:recommended
+extends:
+  - eslint:recommended
 
 ############
 # Env Vars #
